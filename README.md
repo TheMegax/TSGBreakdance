@@ -1,11 +1,5 @@
 ﻿
 ![Requires BTD6 Mod Helper](https://i.imgur.com/ID7iwfY.png)
-![GitHub all releases](https://img.shields.io/github/downloads/TheMegax/HitboxMod/total)
+![GitHub all releases](https://img.shields.io/github/downloads/TheMegax/TSGBreakdance/total)
 
-This mod adds toggleable hitboxes to the game. This includes tower collision, projectiles, bloons, map obstacles, and paths.
-
-TODO:
-- [ ] Optimize code for rendering hundreds of hitboxes
-- [X] Add map collision and obstacles
-- [ ] In-game button toggles
-- [ ] Fix bloons/towers extras affecting the hitbox
+The True Sun God can now break-dance. That's it, that's the whole mod.

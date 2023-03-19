@@ -1,1 +1,1 @@
-﻿Map hitboxes added, big performance boost
+﻿Initial release.
