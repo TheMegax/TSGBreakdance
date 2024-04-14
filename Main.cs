@@ -43,7 +43,7 @@ public class Main : BloonsTD6Mod
         var displayModel = tsgTowerModel.GetAttackModel().GetBehavior<DisplayModel>();
         displayModel.ApplyDisplay<TrueSunGodBreakdance>();
         displayModel.ignoreRotation = true;
-        displayModel.positionOffset = new SVector3(0, -10, 100);
+        displayModel.positionOffset = new SVector3(0, -5, 100);
     }
     
     public enum MessageType

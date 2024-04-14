@@ -1,1 +1,1 @@
-﻿Initial release.
+﻿Updated for 42.1
